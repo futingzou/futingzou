@@ -1,6 +1,7 @@
+<!--
 ### Hi there 👋
 
-<!--
+
 **futingzou/futingzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi! I'm Futing <img style="height:1em" src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif"></h1>
+<h3 align="center">A Cognitive Neuroscience Ph.D. student at University of Oregon studying how humans learn and remember. </h3>
+
+<p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/ZouFuting?logo=twitter&style=for-the-badge" alt="ZouFuting" /></a> </p>
+
+- 📫 How to reach me: **<a href="mailto:futingz@uoregon.edu">email me</a> or <a href="https://twitter.com/ZouFuting" target="blank">DM on Twitter</a>**.
