@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/eurunuela" target="blank"><img src="https://img.shields.io/twitter/follow/ZouFuting?logo=twitter&style=for-the-badge" alt="ZouFuting" /></a> </p>
 
-- 📫 How to reach me: **<a href="mailto:futing_zou@brown.edu">email me</a>.
+- 📫 How to reach me: **<a href="mailto:futing_zou@brown.edu">email me</a>**.
